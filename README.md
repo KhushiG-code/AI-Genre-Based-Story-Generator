@@ -20,9 +20,9 @@ My_AI_TaleTailor/
 │── README.md          # Project documentation
 │── .streamlit/
 │    └── secrets.toml  # API key (not pushed)
+
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
-git clone https://github.com/KhushiG-code/AI-Genre-Based-Story-Generator.git
 cd AI-Genre-Based-Story-Generator
 2️⃣ Install dependencies
 pip install -r requirements.txt
